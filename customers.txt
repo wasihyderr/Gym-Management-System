@@ -1,0 +1,3 @@
+Customer ID	 	Name	 	 	 	Address	 	 	 	Phone	 	 	 	Email
+
+1	 	 	 	Junaid	 	 	 	Lahore 	 	 	 	03124214124	 	 	 	asdadadadad

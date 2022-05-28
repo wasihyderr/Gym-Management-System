@@ -1,0 +1,3 @@
+Plan ID	Trainer ID	Equipment ID	Duration
+
+1	 	 	 	1	 	 	 	1	 	 	 	10	 	 	 	
